@@ -1,5 +1,7 @@
 package com.aarocket.pokemonkt
 
+import com.aarocket.pokemonkt.mon
+
 val mainmenu = "[quit]\n\n[P] Pok\u00e9mon\n[B] Battle!\n"
 
 fun main() {
